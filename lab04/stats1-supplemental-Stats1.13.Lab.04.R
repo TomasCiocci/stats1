@@ -25,7 +25,7 @@
 library(psych)
 
 # Read data into a dataframe called PE (physical endurance)
-PE <- read.table("Stats1.13.Lab.04.txt", header = T)
+PE <- read.table("stats1-datafiles-Stats1.13.Lab.04.txt", header = T)
 
 # If you want to view the data
 #View(PE)
